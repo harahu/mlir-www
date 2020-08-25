@@ -1,0 +1,136 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classBaseT.html" title="BaseT" alt="" coords="107,2887,167,2914"/>
+<area shape="rect" id="node2" href="$classmlir_1_1detail_1_1DialectInterfaceBase.html" title="The base class used for all derived interface types. " alt="" coords="347,3808,551,3849"/>
+<area shape="rect" id="node7" href="$classmlir_1_1detail_1_1StorageUserBase.html" title="Utility class for implementing users of storage classes uniqued by a StorageUniquer. " alt="" coords="353,1911,546,1967"/>
+<area shape="rect" id="node79" href="$classmlir_1_1PassWrapper.html" title="This class provides a CRTP wrapper around a base pass class to define several necessary utility metho..." alt="" coords="380,2880,519,2921"/>
+<area shape="rect" id="node3" href="$classmlir_1_1DialectDecodeAttributesInterface.html" title="Define an interface to decode opaque constant tensor. " alt="" coords="678,3749,871,3791"/>
+<area shape="rect" id="node4" href="$classmlir_1_1DialectFoldInterface.html" title="Define a fold interface to allow for dialects to control specific aspects of the folding behavior for..." alt="" coords="691,3815,859,3842"/>
+<area shape="rect" id="node5" href="$classmlir_1_1DialectInlinerInterface.html" title="This is the interface that must be implemented by the dialects of operations to be inlined..." alt="" coords="685,3866,864,3893"/>
+<area shape="rect" id="node6" href="$classmlir_1_1OpAsmDialectInterface.html" title="mlir::OpAsmDialectInterface" alt="" coords="681,3917,868,3943"/>
+<area shape="rect" id="node8" href="$classmlir_1_1AffineMapAttr.html" title="mlir::AffineMapAttr" alt="" coords="709,2482,840,2509"/>
+<area shape="rect" id="node9" href="$classmlir_1_1ArrayAttr.html" title="Array attributes are lists of other attributes. " alt="" coords="723,2533,826,2559"/>
+<area shape="rect" id="node10" href="$classmlir_1_1BFloat16Type.html" title="mlir::BFloat16Type" alt="" coords="709,2583,841,2610"/>
+<area shape="rect" id="node11" href="$classmlir_1_1CallSiteLoc.html" title="Represents a location as call site. " alt="" coords="715,2634,834,2661"/>
+<area shape="rect" id="node12" href="$classmlir_1_1ComplexType.html" title="The &#39;complex&#39; type represents a complex number with a parameterized element type, which is composed o..." alt="" coords="709,2685,841,2711"/>
+<area shape="rect" id="node13" href="$classmlir_1_1DenseIntOrFPElementsAttr.html" title="An attribute class for specializing behavior of Int and Floating&#45;point densely packed string arrays..." alt="" coords="669,1471,880,1498"/>
+<area shape="rect" id="node16" href="$classmlir_1_1DenseStringElementsAttr.html" title="An attribute class for representing dense arrays of strings. " alt="" coords="675,2735,874,2762"/>
+<area shape="rect" id="node17" href="$classmlir_1_1DictionaryAttr.html" title="Dictionary attribute is an attribute that represents a sorted collection of named attribute values..." alt="" coords="709,2786,840,2813"/>
+<area shape="rect" id="node18" href="$classmlir_1_1FileLineColLoc.html" title="Represents a location derived from a file/line/column location. " alt="" coords="706,2837,843,2863"/>
+<area shape="rect" id="node19" href="$classmlir_1_1Float16Type.html" title="mlir::Float16Type" alt="" coords="713,2887,836,2914"/>
+<area shape="rect" id="node20" href="$classmlir_1_1Float32Type.html" title="mlir::Float32Type" alt="" coords="713,2938,836,2965"/>
+<area shape="rect" id="node21" href="$classmlir_1_1Float64Type.html" title="mlir::Float64Type" alt="" coords="713,2989,836,3015"/>
+<area shape="rect" id="node22" href="$classmlir_1_1FloatAttr.html" title="mlir::FloatAttr" alt="" coords="724,3039,825,3066"/>
+<area shape="rect" id="node23" href="$classmlir_1_1FunctionType.html" title="Function types map from a list of inputs to a list of results. " alt="" coords="709,3090,840,3117"/>
+<area shape="rect" id="node24" href="$classmlir_1_1FusedLoc.html" title="Represents a value composed of multiple source constructs, with an optional metadata attribute..." alt="" coords="721,3141,829,3167"/>
+<area shape="rect" id="node25" href="$classmlir_1_1IndexType.html" title="Index is a special integer&#45;like type with unknown platform&#45;dependent bit width. " alt="" coords="719,3191,831,3218"/>
+<area shape="rect" id="node26" href="$classmlir_1_1IntegerAttr.html" title="mlir::IntegerAttr" alt="" coords="719,3242,831,3269"/>
+<area shape="rect" id="node27" href="$classmlir_1_1IntegerSetAttr.html" title="mlir::IntegerSetAttr" alt="" coords="709,3293,841,3319"/>
+<area shape="rect" id="node28" href="$classmlir_1_1IntegerType.html" title="Integer types can have arbitrary bitwidth up to a large fixed limit. " alt="" coords="715,3343,835,3370"/>
+<area shape="rect" id="node29" href="$classmlir_1_1linalg_1_1RangeType.html" title="A RangeType represents a minimal range abstraction (min, max, step). " alt="" coords="697,3394,853,3421"/>
+<area shape="rect" id="node30" href="$classmlir_1_1LLVM_1_1LLVMArrayType.html" title="LLVM dialect array type. " alt="" coords="681,3445,868,3471"/>
+<area shape="rect" id="node31" href="$classmlir_1_1LLVM_1_1LLVMFixedVectorType.html" title="LLVM dialect fixed vector type, represents a sequence of elements of known length that can be process..." alt="" coords="661,3495,888,3522"/>
+<area shape="rect" id="node32" href="$classmlir_1_1LLVM_1_1LLVMFunctionType.html" title="LLVM dialect function type. " alt="" coords="671,3546,878,3573"/>
+<area shape="rect" id="node33" href="$classmlir_1_1LLVM_1_1LLVMIntegerType.html" title="LLVM dialect signless integer type parameterized by bitwidth. " alt="" coords="677,3597,873,3623"/>
+<area shape="rect" id="node34" href="$classmlir_1_1LLVM_1_1LLVMPointerType.html" title="LLVM dialect pointer type. " alt="" coords="676,3647,873,3674"/>
+<area shape="rect" id="node35" href="$classmlir_1_1LLVM_1_1LLVMScalableVectorType.html" title="LLVM dialect scalable vector type, represents a sequence of elements of unknown length that is known ..." alt="" coords="686,5,863,47"/>
+<area shape="rect" id="node36" href="$classmlir_1_1LLVM_1_1LLVMStructType.html" title="LLVM dialect structure type representing a collection of different&#45;typed elements manipulated togethe..." alt="" coords="679,71,870,98"/>
+<area shape="rect" id="node37" href="$classmlir_1_1MemRefType.html" title="MemRef types represent a region of memory that have a shape with a fixed number of dimensions..." alt="" coords="709,122,840,149"/>
+<area shape="rect" id="node38" href="$classmlir_1_1NameLoc.html" title="Represents an identity name attached to a child location. " alt="" coords="721,173,828,199"/>
+<area shape="rect" id="node39" href="$classmlir_1_1NoneType.html" title="NoneType is a unit type, i.e. " alt="" coords="719,223,830,250"/>
+<area shape="rect" id="node40" href="$classmlir_1_1OpaqueAttr.html" title="Opaque attributes represent attributes of non&#45;registered dialects. " alt="" coords="716,274,833,301"/>
+<area shape="rect" id="node41" href="$classmlir_1_1OpaqueElementsAttr.html" title="An opaque attribute that represents a reference to a vector or tensor constant with opaque content..." alt="" coords="689,325,861,351"/>
+<area shape="rect" id="node42" href="$classmlir_1_1OpaqueLoc.html" title="Represents a location that is external to MLIR. " alt="" coords="716,375,833,402"/>
+<area shape="rect" id="node43" href="$classmlir_1_1OpaqueType.html" title="Opaque types represent types of non&#45;registered dialects. " alt="" coords="712,426,837,453"/>
+<area shape="rect" id="node44" href="$structmlir_1_1pdl_1_1AttributeType.html" title="This type represents a handle to an mlir::Attribute. " alt="" coords="697,477,852,503"/>
+<area shape="rect" id="node45" href="$structmlir_1_1pdl_1_1OperationType.html" title="This type represents a handle to an mlir::Operation*. " alt="" coords="694,527,855,554"/>
+<area shape="rect" id="node46" href="$structmlir_1_1pdl_1_1TypeType.html" title="This type represents a handle to an mlir::Type. " alt="" coords="707,578,842,605"/>
+<area shape="rect" id="node47" href="$structmlir_1_1pdl_1_1ValueType.html" title="This type represents a handle to an mlir::Value. " alt="" coords="705,629,844,655"/>
+<area shape="rect" id="node48" href="$classmlir_1_1quant_1_1AnyQuantizedType.html" title="A quantized type that maps storage to/from expressed types in an unspecified way. ..." alt="" coords="673,679,876,706"/>
+<area shape="rect" id="node49" href="$classmlir_1_1quant_1_1UniformQuantizedPerAxisType.html" title="Represents per&#45;axis (also known as per&#45;channel quantization). " alt="" coords="677,731,873,772"/>
+<area shape="rect" id="node50" href="$classmlir_1_1quant_1_1UniformQuantizedType.html" title="Represents a family of uniform, quantized types. " alt="" coords="662,797,887,823"/>
+<area shape="rect" id="node51" href="$classmlir_1_1RankedTensorType.html" title="Ranked tensor types represent multi&#45;dimensional arrays that have a shape with a fixed number of dimen..." alt="" coords="692,847,857,874"/>
+<area shape="rect" id="node52" href="$classmlir_1_1shape_1_1ComponentType.html" title="The component type corresponding to shape, element type and attribute. " alt="" coords="679,898,870,925"/>
+<area shape="rect" id="node53" href="$classmlir_1_1shape_1_1ElementType.html" title="The element type of the shaped type. " alt="" coords="689,949,860,975"/>
+<area shape="rect" id="node54" href="$classmlir_1_1shape_1_1ShapeType.html" title="The shape descriptor type represents rank and dimension sizes. " alt="" coords="695,999,855,1026"/>
+<area shape="rect" id="node55" href="$classmlir_1_1shape_1_1SizeType.html" title="The type of a single dimension. " alt="" coords="700,1050,849,1077"/>
+<area shape="rect" id="node56" href="$classmlir_1_1shape_1_1ValueShapeType.html" title="The ValueShape represents a (potentially unknown) runtime value and shape. " alt="" coords="678,1151,871,1178"/>
+<area shape="rect" id="node57" href="$classmlir_1_1shape_1_1WitnessType.html" title="The Witness represents a runtime constraint, to be used as shape related preconditions on code execut..." alt="" coords="689,1202,860,1229"/>
+<area shape="rect" id="node58" href="$classmlir_1_1SparseElementsAttr.html" title="An attribute that represents a reference to a sparse vector or tensor object. " alt="" coords="691,1253,859,1279"/>
+<area shape="rect" id="node59" href="$classmlir_1_1spirv_1_1ArrayType.html" title="mlir::spirv::ArrayType" alt="" coords="701,1303,848,1330"/>
+<area shape="rect" id="node60" href="$classmlir_1_1spirv_1_1CooperativeMatrixNVType.html" title="mlir::spirv::Cooperative\lMatrixNVType" alt="" coords="696,1355,853,1396"/>
+<area shape="rect" id="node61" href="$classmlir_1_1spirv_1_1ImageType.html" title="mlir::spirv::ImageType" alt="" coords="699,1421,851,1447"/>
+<area shape="rect" id="node62" href="$classmlir_1_1spirv_1_1InterfaceVarABIAttr.html" title="An attribute that specifies the information regarding the interface variable: descriptor set..." alt="" coords="747,3698,802,3725"/>
+<area shape="rect" id="node63" href="$classmlir_1_1spirv_1_1MatrixType.html" title="mlir::spirv::MatrixType" alt="" coords="699,1522,851,1549"/>
+<area shape="rect" id="node64" href="$classmlir_1_1spirv_1_1PointerType.html" title="mlir::spirv::PointerType" alt="" coords="696,1573,853,1599"/>
+<area shape="rect" id="node65" href="$classmlir_1_1spirv_1_1RuntimeArrayType.html" title="mlir::spirv::RuntimeArrayType" alt="" coords="677,1749,873,1775"/>
+<area shape="rect" id="node66" href="$classmlir_1_1spirv_1_1StructType.html" title="mlir::spirv::StructType" alt="" coords="699,1799,850,1826"/>
+<area shape="rect" id="node67" href="$classmlir_1_1spirv_1_1TargetEnvAttr.html" title="An attribute that specifies the target version, allowed extensions and capabilities, and resource limits. " alt="" coords="691,1850,859,1877"/>
+<area shape="rect" id="node68" href="$classmlir_1_1spirv_1_1VerCapExtAttr.html" title="An attribute that specifies the SPIR&#45;V (version, capabilities, extensions) triple. " alt="" coords="689,1901,861,1927"/>
+<area shape="rect" id="node69" href="$classmlir_1_1StringAttr.html" title="mlir::StringAttr" alt="" coords="721,1951,828,1978"/>
+<area shape="rect" id="node70" href="$classmlir_1_1SymbolRefAttr.html" title="A symbol reference attribute represents a symbolic reference to another operation. " alt="" coords="706,1101,843,1127"/>
+<area shape="rect" id="node72" href="$classmlir_1_1TupleType.html" title="Tuple types represent a collection of other types. " alt="" coords="719,2127,831,2154"/>
+<area shape="rect" id="node73" href="$classmlir_1_1TypeAttr.html" title="mlir::TypeAttr" alt="" coords="724,2178,825,2205"/>
+<area shape="rect" id="node74" href="$classmlir_1_1UnitAttr.html" title="Unit attributes are attributes that hold no specific value and are given meaning by their existence..." alt="" coords="727,2229,823,2255"/>
+<area shape="rect" id="node75" href="$classmlir_1_1UnknownLoc.html" title="Represents an unknown location. " alt="" coords="711,2279,838,2306"/>
+<area shape="rect" id="node76" href="$classmlir_1_1UnrankedMemRefType.html" title="Unranked MemRef type represent multi&#45;dimensional MemRefs that have an unknown rank. " alt="" coords="681,2330,868,2357"/>
+<area shape="rect" id="node77" href="$classmlir_1_1UnrankedTensorType.html" title="Unranked tensor types represent multi&#45;dimensional arrays that have an unknown shape. " alt="" coords="687,2381,863,2407"/>
+<area shape="rect" id="node78" href="$classmlir_1_1VectorType.html" title="Vector types represent multi&#45;dimensional SIMD vectors, and have a fixed known constant shape with one..." alt="" coords="715,2431,834,2458"/>
+<area shape="rect" id="node14" href="$classmlir_1_1DenseFPElementsAttr.html" title="An attribute that represents a reference to a dense float vector or tensor object. " alt="" coords="1059,1446,1241,1473"/>
+<area shape="rect" id="node15" href="$classmlir_1_1DenseIntElementsAttr.html" title="An attribute that represents a reference to a dense integer vector or tensor object. " alt="" coords="1060,1497,1240,1523"/>
+<area shape="rect" id="node87" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineReadOpInterface \&gt;" alt="" coords="1037,3655,1263,3682"/>
+<area shape="rect" id="node92" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineWriteOpInterface \&gt;" alt="" coords="1037,3742,1263,3769"/>
+<area shape="rect" id="node97" href="$classmlir_1_1Op.html" title="This provides public APIs that all operations should have. " alt="" coords="1067,3968,1233,4009"/>
+<area shape="rect" id="node98" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ConcreteType \&gt;" alt="" coords="1063,4034,1237,4061"/>
+<area shape="rect" id="node71" href="$classmlir_1_1FlatSymbolRefAttr.html" title="A symbol reference with a reference path containing a single element. " alt="" coords="1071,1101,1229,1127"/>
+<area shape="rect" id="node80" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineDmaStartOp, llvm\l::is_one_of\&lt; OpTrait::OneResult\l\&lt; AffineDmaStartOp \&gt;, OpTrait\l::VariadicOperands\&lt; AffineDmaStartOp\l \&gt;... \&gt;::value \&gt;" alt="" coords="649,4092,901,4192"/>
+<area shape="rect" id="node81" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaStart\lOp, OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1047,4209,1253,4265"/>
+<area shape="rect" id="node82" href="$classmlir_1_1AffineDmaStartOp.html" title="AffineDmaStartOp starts a non&#45;blocking DMA operation that transfers data from a source memref to a de..." alt="" coords="1416,4223,1575,4250"/>
+<area shape="rect" id="node83" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineDmaWaitOp, llvm\l::is_one_of\&lt; OpTrait::\lOneResult\&lt; AffineDmaWaitOp\l \&gt;, OpTrait::VariadicOperands\l\&lt; AffineDmaWaitOp \&gt;... \&gt;::value \&gt;" alt="" coords="661,4281,888,4381"/>
+<area shape="rect" id="node84" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaWaitOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1055,4391,1245,4447"/>
+<area shape="rect" id="node85" href="$classmlir_1_1AffineDmaWaitOp.html" title="AffineDmaWaitOp blocks until the completion of a DMA operation associated with the tag element &#39;tag[i..." alt="" coords="1417,4406,1574,4433"/>
+<area shape="rect" id="node86" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineReadOpInterface,\l llvm::is_one_of\&lt; OpTrait\l::OneResult\&lt; AffineReadOpInterface\l \&gt;, Traits\&lt; AffineReadOpInterface\l \&gt;... \&gt;::value \&gt;" alt="" coords="656,1624,893,1724"/>
+<area shape="rect" id="node88" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; AffineReadOpInterface,\l Operation *, detail::AffineRead\lOpInterfaceInterfaceTraits, Op\l\&lt; AffineReadOpInterface \&gt;, OpTrait\l::TraitBase \&gt;" alt="" coords="1380,3600,1611,3700"/>
+<area shape="rect" id="node89" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l AffineReadOpInterface,\l detail::AffineReadOpInterface\lInterfaceTraits \&gt;" alt="" coords="1659,3615,1857,3685"/>
+<area shape="rect" id="node90" href="$classmlir_1_1AffineReadOpInterface.html" title="mlir::AffineReadOpInterface" alt="" coords="1905,3637,2089,3663"/>
+<area shape="rect" id="node91" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l AffineWriteOpInterface,\l llvm::is_one_of\&lt; OpTrait\l::OneResult\&lt; AffineWriteOpInterface\l \&gt;, Traits\&lt; AffineWriteOpInterface\l \&gt;... \&gt;::value \&gt;" alt="" coords="656,2003,893,2103"/>
+<area shape="rect" id="node93" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; AffineWriteOpInterface,\l Operation *, detail::AffineWrite\lOpInterfaceInterfaceTraits, Op\l\&lt; AffineWriteOpInterface \&gt;, OpTrait\l::TraitBase \&gt;" alt="" coords="1380,3724,1611,3824"/>
+<area shape="rect" id="node94" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l AffineWriteOpInterface,\l detail::AffineWriteOpInterface\lInterfaceTraits \&gt;" alt="" coords="1659,3739,1857,3809"/>
+<area shape="rect" id="node95" href="$classmlir_1_1AffineWriteOpInterface.html" title="mlir::AffineWriteOpInterface" alt="" coords="1905,3761,2089,3787"/>
+<area shape="rect" id="node96" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ConcreteType, llvm\l::is_one_of\&lt; OpTrait\l::OneResult\&lt; ConcreteType\l \&gt;, Traits\&lt; ConcreteType\l \&gt;... \&gt;::value \&gt;" alt="" coords="681,3968,868,4068"/>
+<area shape="rect" id="node99" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; ConcreteType, Operation\l *, Traits, Op\&lt; ConcreteType\l \&gt;, OpTrait::TraitBase \&gt;" alt="" coords="1400,4012,1591,4083"/>
+<area shape="rect" id="node100" href="$classmlir_1_1OpInterface.html" title="This class represents the base of an operation interface. " alt="" coords="1677,4027,1839,4068"/>
+<area shape="rect" id="node101" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l DmaStartOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; DmaStartOp \&gt;, OpTrait::VariadicOperands\l\&lt; DmaStartOp \&gt;... \&gt;::value \&gt;" alt="" coords="634,4523,915,4609"/>
+<area shape="rect" id="node102" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; DmaStartOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1058,4538,1242,4594"/>
+<area shape="rect" id="node103" href="$classmlir_1_1DmaStartOp.html" title="mlir::DmaStartOp" alt="" coords="1433,4553,1557,4579"/>
+<area shape="rect" id="node104" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l DmaWaitOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; DmaWaitOp \&gt;, OpTrait::Variadic\lOperands\&lt; DmaWaitOp \&gt;... \&gt;::value \&gt;" alt="" coords="650,4699,899,4785"/>
+<area shape="rect" id="node105" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; DmaWaitOp,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult \&gt;" alt="" coords="1058,4714,1242,4770"/>
+<area shape="rect" id="node106" href="$classmlir_1_1DmaWaitOp.html" title="mlir::DmaWaitOp" alt="" coords="1434,4729,1557,4755"/>
+<area shape="rect" id="node107" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l FuncOp, llvm::is_one\l_of\&lt; OpTrait::OneResult\l\&lt; FuncOp \&gt;, OpTrait::ZeroOperands\l\&lt; FuncOp \&gt;... \&gt;::value \&gt;" alt="" coords="658,4875,891,4961"/>
+<area shape="rect" id="node108" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; FuncOp, OpTrait\l::ZeroOperands, OpTrait\l::ZeroResult, OpTrait::OneRegion,\l OpTrait::IsIsolatedFromAbove,\l OpTrait::FunctionLike, OpTrait\l::AutomaticAllocationScope, OpTrait\l::AffineScope, CallableOpInterface\l::Trait, SymbolOpInterface::Trait \&gt;" alt="" coords="1033,4853,1267,4983"/>
+<area shape="rect" id="node109" href="$classmlir_1_1FuncOp.html" title="FuncOp represents a function, or an operation containing one region that forms a CFG(Control Flow Gra..." alt="" coords="1447,4905,1544,4931"/>
+<area shape="rect" id="node110" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ModuleOp, llvm::is\l_one_of\&lt; OpTrait::OneResult\l\&lt; ModuleOp \&gt;, OpTrait::ZeroOperands\l\&lt; ModuleOp \&gt;... \&gt;::value \&gt;" alt="" coords="651,5051,898,5137"/>
+<area shape="rect" id="node111" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ModuleOp,\l OpTrait::ZeroOperands,\l OpTrait::ZeroResult,\l OpTrait::IsIsolatedFromAbove,\l OpTrait::AffineScope, OpTrait\l::SymbolTable, OpTrait::SingleBlockImplicit\lTerminator\&lt; ModuleTerminatorOp \&gt;::Impl,\l SymbolOpInterface::Trait, OpTrait::NoRegionArguments \&gt;" alt="" coords="968,5029,1332,5159"/>
+<area shape="rect" id="node112" href="$classmlir_1_1ModuleOp.html" title="ModuleOp represents a module, or an operation containing one region with a single block containing op..." alt="" coords="1440,5081,1551,5107"/>
+<area shape="rect" id="node113" href="$classmlir_1_1FoldingHook.html" title="mlir::FoldingHook\&lt;\l ModuleTerminatorOp,\l llvm::is_one_of\&lt; OpTrait\l::OneResult\&lt; ModuleTerminatorOp\l \&gt;, OpTrait::ZeroOperands\&lt; ModuleTerminator\lOp \&gt;... \&gt;::value \&gt;" alt="" coords="629,5227,920,5327"/>
+<area shape="rect" id="node114" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ModuleTerminator\lOp, OpTrait::ZeroOperands,\l OpTrait::ZeroResult, OpTrait\l::HasParent\&lt; ModuleOp \&gt;::Impl,\l OpTrait::IsTerminator \&gt;" alt="" coords="1044,5234,1256,5319"/>
+<area shape="rect" id="node115" href="$classmlir_1_1ModuleTerminatorOp.html" title="The ModuleTerminatorOp is a special terminator operation for the body of a ModuleOp, it has no semantic meaning beyond keeping the body of a ModuleOp well&#45;formed. " alt="" coords="1409,5263,1581,5290"/>
+<area shape="rect" id="node116" href="$classmlir_1_1OpState.html" title="This is the concrete base class that holds the operation pointer and has non&#45;generic methods that onl..." alt="" coords="725,4406,824,4433"/>
+<area shape="rect" id="node117" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineDmaStartOp, VariadicOperands \&gt;" alt="" coords="5,4216,269,4257"/>
+<area shape="rect" id="node118" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; AffineDmaStartOp, VariadicOperands \&gt;" alt="" coords="317,4209,581,4265"/>
+<area shape="rect" id="node119" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; AffineDmaStartOp \&gt;" alt="" coords="672,4216,877,4257"/>
+<area shape="rect" id="node120" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; AffineDmaWaitOp, VariadicOperands \&gt;" alt="" coords="6,4457,269,4499"/>
+<area shape="rect" id="node121" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; AffineDmaWaitOp, VariadicOperands \&gt;" alt="" coords="318,4450,581,4506"/>
+<area shape="rect" id="node122" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; AffineDmaWaitOp \&gt;" alt="" coords="672,4457,877,4499"/>
+<area shape="rect" id="node123" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; DmaStartOp, VariadicOperands \&gt;" alt="" coords="22,4633,253,4675"/>
+<area shape="rect" id="node124" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; DmaStartOp, VariadicOperands \&gt;" alt="" coords="334,4626,565,4682"/>
+<area shape="rect" id="node125" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; DmaStartOp \&gt;" alt="" coords="672,4633,877,4675"/>
+<area shape="rect" id="node126" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; DmaWaitOp, VariadicOperands \&gt;" alt="" coords="23,4809,252,4851"/>
+<area shape="rect" id="node127" href="$structmlir_1_1OpTrait_1_1detail_1_1MultiOperandTraitBase.html" title="mlir::OpTrait::detail\l::MultiOperandTraitBase\l\&lt; DmaWaitOp, VariadicOperands \&gt;" alt="" coords="335,4802,564,4858"/>
+<area shape="rect" id="node128" href="$classmlir_1_1OpTrait_1_1VariadicOperands.html" title="mlir::OpTrait::VariadicOperands\l\&lt; DmaWaitOp \&gt;" alt="" coords="672,4809,877,4851"/>
+<area shape="rect" id="node129" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; FuncOp, ZeroOperands \&gt;" alt="" coords="358,4985,541,5027"/>
+<area shape="rect" id="node130" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; FuncOp \&gt;" alt="" coords="683,4985,867,5027"/>
+<area shape="rect" id="node131" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ModuleOp, ZeroOperands \&gt;" alt="" coords="352,5161,547,5203"/>
+<area shape="rect" id="node132" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; ModuleOp \&gt;" alt="" coords="683,5161,867,5203"/>
+<area shape="rect" id="node133" href="$classmlir_1_1OpTrait_1_1TraitBase.html" title="mlir::OpTrait::TraitBase\l\&lt; ModuleTerminatorOp, ZeroOperands \&gt;" alt="" coords="321,5351,578,5392"/>
+<area shape="rect" id="node134" href="$classmlir_1_1OpTrait_1_1ZeroOperands.html" title="mlir::OpTrait::ZeroOperands\l\&lt; ModuleTerminatorOp \&gt;" alt="" coords="683,5351,867,5392"/>
+</map>
